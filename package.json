@@ -1,0 +1,11 @@
+{
+  "name": "izk-first-my-money-lib",
+  "version": "1.0.2",
+  "description": "A simple lightweight money format ",
+  "main": "my-money-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad",
+  "license": "ISC"
+}
